@@ -1,2 +1,2 @@
 # Repeating-of-GIT
-repo for repeat gits basics
+repo for repeating gits basics
